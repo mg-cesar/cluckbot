@@ -41,7 +41,7 @@
 </h3>
 
 ---
-
+Esto es un cambio propio
 
 🤗 LeRobot aims to provide models, datasets, and tools for real-world robotics in PyTorch. The goal is to lower the barrier to entry to robotics so that everyone can contribute and benefit from sharing datasets and pretrained models.
 
